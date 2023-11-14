@@ -26,13 +26,34 @@ The following functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+### Three Favorite Apps:
+1. AllTrails
+   - Can view hiking trails around the world.
+   - Users can add their own content including pictures and custom trails.
+   - Map view makes finding trails easy.
+   - Incorporated rating and comment system means users can share experiences.
+  
+2. SkipTheDishes
+   - Users can order food from their favorite restaurants and have it delivered.
+   - Menus include pictures and options for customers to customize food.
+   - After ordering, delivery page shows driver location so user knows exactly when food will show up.
+
+3. YouTube
+   - Easily watch online videos on mobile device.
+   - Provides notifications for new videos from favorite content creators.
+   - Option to download recommended videos in advance. Great for watching videos on flights or in areas of poor reception.
+
+
+### New App Idea: Recycle and Repurpose
+I am interested in creating the Recycle and Repurpose app, where people can re-purpose household items instead of throwing them away. This app would feature a page of items that are commonly used at home but usually discarded to the garbage or recycling. These would be items such as plastic bottles, glass jars, cardboard, plastic containers, etc. Users can select which of these items they have at home, then proceed to the next page which would show them various ways to repurpose and reuse those items. It can feature individual repurposing, but also group repurposing - larger repurposing projects made from many household items. Such examples would be making flower pots from old jars, making a table from a used tire, using soup cans as storage containers, etc.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Building the app was fairly straightforward, but I was presented with some difficulties. When connecting the UI to logic, I wasn't immediately aware of where to add the changeColor function, but after a short search I was able to find it belonged directly under IBAction, and not nested in it. Also I am using a new device and had to set up git again, prompting me to relearn the SSH key generation procedure. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Michael Venerus
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
