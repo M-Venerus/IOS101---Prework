@@ -16,11 +16,11 @@ The following functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/9e8f56eb48b34b309ff17771318f7d18">
+    <a href="https://www.loom.com/share/298999f287eb4ace934c1a442a302c41">
       <p>Loom | Free Screen & Video Recording Software | Loom - 14 November 2023 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/9e8f56eb48b34b309ff17771318f7d18">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e8f56eb48b34b309ff17771318f7d18-with-play.gif">
+    <a href="https://www.loom.com/share/298999f287eb4ace934c1a442a302c41">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/298999f287eb4ace934c1a442a302c41-with-play.gif">
     </a>
   </div>
 
