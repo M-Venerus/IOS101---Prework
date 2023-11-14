@@ -15,9 +15,14 @@ The following functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/9e8f56eb48b34b309ff17771318f7d18">
+      <p>Loom | Free Screen & Video Recording Software | Loom - 14 November 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9e8f56eb48b34b309ff17771318f7d18">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9e8f56eb48b34b309ff17771318f7d18-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
